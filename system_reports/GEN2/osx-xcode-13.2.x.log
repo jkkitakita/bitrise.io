@@ -1405,11 +1405,11 @@ Software:
       Kernel Version: Darwin 21.1.0
       Boot Volume: Macintosh HD
       Boot Mode: Normal
-      Computer Name: vm-osx-xcode-13.2.x-g2.4core-e5dfc032-a6d7-4756-9eff-93c960bf152d
+      Computer Name: vm-osx-xcode-13.2.x-standard-e128be68-b3c1-4dbd-802b-d6b028ab3f14
       User Name: vagrant (vagrant)
       Secure Virtual Memory: Enabled
       System Integrity Protection: Disabled
-      Time since boot: 4 minutes
+      Time since boot: 3 minutes
 
 
 ========================================
